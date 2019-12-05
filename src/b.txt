@@ -1,0 +1,4 @@
+apples
+carrots
+grapefruits
+strawberries
